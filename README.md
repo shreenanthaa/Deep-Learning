@@ -1,7 +1,7 @@
 # Deep-Learning
 Hand-written-digit-recognition
-AlexNet
-Hand written digit classification using AlexNet 
+
+Hand written digit classification using simple neural network 
 
 #Dataset
 MNIST dataset
